@@ -6,7 +6,7 @@ Required steps to use this example.
 * Open Site.sln in monodevelop 4.0.12 or newer
 
 
-To configure nginx to server this project see https://github.com/majorsilence/NginxAspMvcHosting.
+To configure nginx to serve this project see https://github.com/majorsilence/NginxAspMvcHosting.
 
 # Nuget
 Requires nuget packages are downloaded.  Run:
