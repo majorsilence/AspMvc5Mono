@@ -1,5 +1,7 @@
 This is an example project to start developing asp mvc 5 sites using mono 3.2.8 and ubuntu 14.04 or newer.
 
+I highly recommend using the latest version of mono from http://www.mono-project.com/download/#download-lin.
+
 Required steps to use this example.
 
 * Run ./nuget-package-restore.sh
